@@ -1,2 +1,6 @@
 println "тарам пам пам";
-println "тарам пам пам";println "тарам пам пам";println "тарам пам пам";println "тарам пам пам";println "тарам пам пам";
+println "тарам пам пам";
+println "тарам пам пам";
+println "тарам пам пам";
+println "тарам пам пам";
+println "тарам пам пам";
