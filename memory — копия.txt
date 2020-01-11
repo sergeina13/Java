@@ -1,4 +1,7 @@
 println "тарам пам пам";
-println "тарам пам пам";println "тарам пам пам";println "тарам пам пам";println "тарам пам пам";println "тарам пам пам";
-фигня какая то
-all map
+println "тарам пам пам";
+println "тарам пам пам";
+println "тарам пам пам";
+println "тарам пам пам";
+фигня какая то;
+all map;
