@@ -26,7 +26,7 @@ class DayOfWeekMain {
     private static String getWorkingHours(DayOfWeek days) {
         String x;
         if (days.ordinal() >= 0 & days.ordinal() <= 4 ) {
-            return x = ("Осталось работать "+ days.getWork());
+            return x = ("Осталось работать "+ days.getWork() + " "+ "часов");
 
         } else return x ="ВЫХОДНЫЕ!!!!";
     }
